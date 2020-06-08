@@ -1,0 +1,600 @@
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Input number of hash table elements: 
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name of the input file: 
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to delete: Deleted name: Ava
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: 
+Data in Hash Table:
+Index 0: Elaine -> Azalea -> Haylee -> Aubrie -> Giuliana -> Dayana -> Colette -> Maisie -> Kehlani -> Matilda -> Blair -> Lainey -> Nia -> Nayeli -> Holly -> Itzel -> Rosemary -> Amari -> Anaya -> Ryan -> Esmeralda -> Madeleine -> Lana -> Miranda -> Cassidy -> Nina -> Kinley -> Amira -> Makenzie -> River -> Lilah -> Raegan -> Selena -> Sloane -> Presley -> Brooke -> Reese -> Jordyn -> Aliyah -> Eden -> Ximena -> Kylie -> Maria -> Reagan -> Valentina -> Gianna -> Naomi -> Adeline -> Bella -> Skylar -> Hazel -> Luna -> Eleanor -> Lily -> Hannah -> Nora -> Elizabeth -> Harper -> NULL
+Index 1: Irene -> Lilian -> Beatrice -> Mariam -> Janelle -> Fernanda -> Luciana -> Kyla -> Gwendolyn -> Miracle -> Haley -> Laura -> Heaven -> Makenna -> Briella -> Amiyah -> Mckenna -> Joanna -> Hayden -> Kendall -> Angelina -> Eliza -> Khloe -> Adalyn -> Brianna -> Hadley -> Madeline -> Julia -> Isabelle -> Melanie -> Lydia -> Serenity -> Nevaeh -> Gabriella -> Layla -> NULL
+Index 2:NULL
+Index 3:NULL
+Index 4: Milani -> Karina -> Alejandra -> Marlee -> Avianna -> Kennedi -> Francesca -> Regina -> Erin -> Carmen -> Adrianna -> Danielle -> Lexi -> Arielle -> Elsie -> Haven -> Ariella -> Aniyah -> Journey -> Zara -> Vera -> June -> Georgia -> Alivia -> Alayna -> Nicole -> Elise -> Kayla -> Lyla -> Leilani -> Bailey -> Annabelle -> Natalia -> Liliana -> Arianna -> Zoe -> Brooklyn -> Natalie -> Sofia -> NULL
+Index 5:NULL
+Index 6:NULL
+Index 7:NULL
+Index 8:NULL
+Index 9: Kora -> Karen -> Johanna -> Charleigh -> Renata -> Kendra -> Remington -> Aspen -> Myla -> Samara -> Freya -> Mariana -> Logan -> Gabrielle -> Catalina -> Remi -> Jayla -> Michelle -> Arya -> Brielle -> Kaylee -> Aaliyah -> Isabella -> NULL
+Index 10:NULL
+Index 11:NULL
+Index 12:NULL
+Index 13:NULL
+Index 14:NULL
+Index 15:NULL
+Index 16: Sasha -> Elianna -> Kaydence -> Cataleya -> April -> Sarai -> Sabrina -> Alexia -> Jimena -> Averie -> Millie -> Dylan -> Nyla -> Izabella -> Hope -> Dakota -> Makayla -> Charlie -> Norah -> Nova -> Aubree -> Hailey -> NULL
+Index 17:NULL
+Index 18:NULL
+Index 19:NULL
+Index 20:NULL
+Index 21: Octavia -> Jayda -> Brylee -> Emelia -> Helena -> Briana -> Annalise -> Paris -> Kate -> Olive -> Emersyn -> Amaya -> Jasmine -> Adalynn -> Peyton -> Cora -> NULL
+Index 22:NULL
+Index 23:NULL
+Index 24: Jazmine -> Karsyn -> Aleena -> Danna -> Marilyn -> Meredith -> Sylvia -> Jazlyn -> Abby -> Lennon -> Jada -> Camryn -> Viviana -> Scarlet -> Margot -> Kaitlyn -> Madilyn -> Jane -> Melissa -> Marley -> Amara -> Julianna -> Alaina -> Cecilia -> Lilly -> London -> Melody -> Ruby -> Kennedy -> Genesis -> Anna -> Aurora -> Audrey -> Grace -> Ella -> NULL
+Index 25: Adley -> Madisyn -> Shiloh -> Charli -> Lauryn -> Leona -> Ivanna -> Julie -> Virginia -> Aleah -> Bethany -> Liana -> Bristol -> Maryam -> Jolene -> Willa -> Alani -> Cheyenne -> Cadence -> Shelby -> Alondra -> Maddison -> Ainsley -> Jacqueline -> Felicity -> Brinley -> Ariah -> Phoebe -> Lyric -> Adelynn -> Kali -> Camille -> Sawyer -> Adelyn -> Catherine -> Payton -> Alina -> Amy -> Mya -> Molly -> Trinity -> Finley -> Lauren -> Taylor -> Elena -> Sarah -> Kinsley -> Madison -> Amelia -> NULL
+Index 26:NULL
+Index 27:NULL
+Index 28:NULL
+Index 29: Justice -> Emmalyn -> Ashlyn -> Tatum -> Gia -> Nadia -> Braelynn -> Everleigh -> Veronica -> Cali -> Adelaide -> Diana -> Rebecca -> Alana -> Katherine -> Quinn -> Violet -> Paisley -> Zoey -> Evelyn -> NULL
+Index 30:NULL
+Index 31:NULL
+Index 32:NULL
+Index 33:NULL
+Index 34:NULL
+Index 35:NULL
+Index 36: Lacey -> Esme -> Gloria -> Macy -> Imani -> Baylee -> Elisa -> Edith -> Annabella -> Leslie -> Frances -> Ariyah -> Royalty -> Ophelia -> Serena -> Katie -> Yaretzi -> Kylee -> Maeve -> Jordan -> Daniella -> Joy -> Fatima -> Lilliana -> Delaney -> Jessica -> Elliana -> Sienna -> Josie -> Mariah -> Lucia -> Daisy -> Addison -> NULL
+Index 37:NULL
+Index 38:NULL
+Index 39:NULL
+Index 40:NULL
+Index 41: Tiffany -> Macie -> Kelsey -> Dahlia -> Harlow -> Alicia -> Gracelyn -> Brynn -> Stephanie -> Leia -> Blake -> Juliet -> Brynlee -> Vanessa -> Emerson -> Alyssa -> Raelynn -> Vivian -> Mia -> NULL
+Index 42:NULL
+Index 43:NULL
+Index 44: Savanna -> Lorelai -> Angelica -> Michaela -> Charley -> Megan -> Allyson -> Jayleen -> Wren -> Eve -> Skye -> Mikayla -> Kiara -> Ada -> Tessa -> Adriana -> Juliette -> Valerie -> Arabella -> Morgan -> Alexandra -> Ivy -> Willow -> Piper -> Ariana -> Emily -> Sophia -> Olivia -> NULL
+Index 45:NULL
+Index 46:NULL
+Index 47:NULL
+Index 48:NULL
+Index 49: Kaliyah -> Kyra -> Dallas -> Jillian -> Hattie -> Mira -> Selah -> Carly -> Zariah -> Chelsea -> Evie -> Paislee -> Miriam -> Noelle -> Fiona -> Iris -> Ariel -> Athena -> Isla -> Emilia -> NULL
+Index 50:NULL
+Index 51:NULL
+Index 52:NULL
+Index 53:NULL
+Index 54:NULL
+Index 55:NULL
+Index 56: Anika -> Avah -> Skyla -> Kynlee -> Lorelei -> Saylor -> Skyler -> Sage -> Lena -> Angela -> Malia -> Harmony -> Sophie -> Autumn -> Eva -> Savannah -> Aubrey -> Scarlett -> Charlotte -> Emma -> NULL
+Index 57:NULL
+Index 58:NULL
+Index 59:NULL
+Index 60:NULL
+Index 61: Liberty -> Priscilla -> Kensley -> Mabel -> Gracelynn -> Phoenix -> Raelyn -> Ruth -> Rosalie -> Rowan -> Esther -> Kimberly -> Margaret -> Mackenzie -> Everly -> Aria -> Avery -> Abigail -> NULL
+Index 62:NULL
+Index 63:NULL
+Index 64: Janiyah -> Janiyah -> Kalani -> Alayah -> Celine -> Aviana -> Raven -> Nylah -> Emely -> Helen -> Jenna -> Daphne -> Magnolia -> Keira -> Charlee -> Blakely -> Lola -> Brooklynn -> Teagan -> Valeria -> Juliana -> Isabel -> Faith -> Maya -> Claire -> NULL
+Index 65:NULL
+Index 66:NULL
+Index 67:NULL
+Index 68:NULL
+Index 69: Laurel -> Kelly -> Coraline -> Galilea -> Alanna -> Henley -> Oakley -> Kathryn -> Amber -> Angel -> Evelynn -> Allie -> Gemma -> Leila -> Parker -> Harley -> Gracie -> Andrea -> Rylee -> Caroline -> Samantha -> Lucy -> Stella -> Mila -> NULL
+Index 70:NULL
+Index 71:NULL
+Index 72:NULL
+Index 73:NULL
+Index 74:NULL
+Index 75:NULL
+Index 76: Maia -> Leighton -> Madelynn -> Kamryn -> Bianca -> Zuri -> Kaia -> Genevieve -> Jocelyn -> Ryleigh -> Penelope -> NULL
+Index 77:NULL
+Index 78:NULL
+Index 79:NULL
+Index 80:NULL
+Index 81: Karla -> Cameron -> Hallie -> Carter -> Myra -> Celeste -> Carolina -> Aylin -> Maliyah -> Kira -> Addilyn -> Talia -> Camilla -> Annie -> Kamila -> Ember -> Gabriela -> Giselle -> Ayla -> Rachel -> Eloise -> Sara -> Rose -> Mary -> Delilah -> Alexa -> Ellie -> Lillian -> Chloe -> NULL
+Index 82:NULL
+Index 83:NULL
+Index 84: Bailee -> Rory -> Madilynn -> Addyson -> Cecelia -> Kassidy -> Mckinley -> Katelyn -> Lia -> Amanda -> Maci -> Alessandra -> Evangeline -> Journee -> Ana -> Londyn -> Mckenzie -> Jade -> Alice -> Allison -> Leah -> NULL
+Index 85:NULL
+Index 86:NULL
+Index 87:NULL
+Index 88:NULL
+Index 89: Kyleigh -> Elliott -> Jazmin -> Kara -> Ashlynn -> Demi -> Malaysia -> Braelyn -> Winter -> Christina -> Heidi -> Rylie -> Juniper -> Jennifer -> Alexandria -> Summer -> Laila -> Anastasia -> Josephine -> Clara -> Riley -> Camila -> Victoria -> NULL
+Index 90:NULL
+Index 91:NULL
+Index 92:NULL
+Index 93:NULL
+Index 94:NULL
+Index 95:NULL
+Index 96: Anne -> Mallory -> Aisha -> Hanna -> Adelina -> Melany -> Lilith -> Sierra -> Kayleigh -> Alison -> Elle -> Kenzie -> Elaina -> Amina -> Thea -> Lucille -> Vivienne -> Maggie -> Daleyza -> Destiny -> Lila -> Daniela -> Callie -> Adaline -> Paige -> Sydney -> Alexis -> Ashley -> Emery -> Eliana -> Sadie -> Madelyn -> NULL
+Index 97:NULL
+Index 98:NULL
+Index 99:NULL
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to delete: Deleted name: Emma
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: 
+Data in Hash Table:
+Index 0: Elaine -> Azalea -> Haylee -> Aubrie -> Giuliana -> Dayana -> Colette -> Maisie -> Kehlani -> Matilda -> Blair -> Lainey -> Nia -> Nayeli -> Holly -> Itzel -> Rosemary -> Amari -> Anaya -> Ryan -> Esmeralda -> Madeleine -> Lana -> Miranda -> Cassidy -> Nina -> Kinley -> Amira -> Makenzie -> River -> Lilah -> Raegan -> Selena -> Sloane -> Presley -> Brooke -> Reese -> Jordyn -> Aliyah -> Eden -> Ximena -> Kylie -> Maria -> Reagan -> Valentina -> Gianna -> Naomi -> Adeline -> Bella -> Skylar -> Hazel -> Luna -> Eleanor -> Lily -> Hannah -> Nora -> Elizabeth -> Harper -> NULL
+Index 1: Irene -> Lilian -> Beatrice -> Mariam -> Janelle -> Fernanda -> Luciana -> Kyla -> Gwendolyn -> Miracle -> Haley -> Laura -> Heaven -> Makenna -> Briella -> Amiyah -> Mckenna -> Joanna -> Hayden -> Kendall -> Angelina -> Eliza -> Khloe -> Adalyn -> Brianna -> Hadley -> Madeline -> Julia -> Isabelle -> Melanie -> Lydia -> Serenity -> Nevaeh -> Gabriella -> Layla -> NULL
+Index 2:NULL
+Index 3:NULL
+Index 4: Milani -> Karina -> Alejandra -> Marlee -> Avianna -> Kennedi -> Francesca -> Regina -> Erin -> Carmen -> Adrianna -> Danielle -> Lexi -> Arielle -> Elsie -> Haven -> Ariella -> Aniyah -> Journey -> Zara -> Vera -> June -> Georgia -> Alivia -> Alayna -> Nicole -> Elise -> Kayla -> Lyla -> Leilani -> Bailey -> Annabelle -> Natalia -> Liliana -> Arianna -> Zoe -> Brooklyn -> Natalie -> Sofia -> NULL
+Index 5:NULL
+Index 6:NULL
+Index 7:NULL
+Index 8:NULL
+Index 9: Kora -> Karen -> Johanna -> Charleigh -> Renata -> Kendra -> Remington -> Aspen -> Myla -> Samara -> Freya -> Mariana -> Logan -> Gabrielle -> Catalina -> Remi -> Jayla -> Michelle -> Arya -> Brielle -> Kaylee -> Aaliyah -> Isabella -> NULL
+Index 10:NULL
+Index 11:NULL
+Index 12:NULL
+Index 13:NULL
+Index 14:NULL
+Index 15:NULL
+Index 16: Sasha -> Elianna -> Kaydence -> Cataleya -> April -> Sarai -> Sabrina -> Alexia -> Jimena -> Averie -> Millie -> Dylan -> Nyla -> Izabella -> Hope -> Dakota -> Makayla -> Charlie -> Norah -> Nova -> Aubree -> Hailey -> NULL
+Index 17:NULL
+Index 18:NULL
+Index 19:NULL
+Index 20:NULL
+Index 21: Octavia -> Jayda -> Brylee -> Emelia -> Helena -> Briana -> Annalise -> Paris -> Kate -> Olive -> Emersyn -> Amaya -> Jasmine -> Adalynn -> Peyton -> Cora -> NULL
+Index 22:NULL
+Index 23:NULL
+Index 24: Jazmine -> Karsyn -> Aleena -> Danna -> Marilyn -> Meredith -> Sylvia -> Jazlyn -> Abby -> Lennon -> Jada -> Camryn -> Viviana -> Scarlet -> Margot -> Kaitlyn -> Madilyn -> Jane -> Melissa -> Marley -> Amara -> Julianna -> Alaina -> Cecilia -> Lilly -> London -> Melody -> Ruby -> Kennedy -> Genesis -> Anna -> Aurora -> Audrey -> Grace -> Ella -> NULL
+Index 25: Adley -> Madisyn -> Shiloh -> Charli -> Lauryn -> Leona -> Ivanna -> Julie -> Virginia -> Aleah -> Bethany -> Liana -> Bristol -> Maryam -> Jolene -> Willa -> Alani -> Cheyenne -> Cadence -> Shelby -> Alondra -> Maddison -> Ainsley -> Jacqueline -> Felicity -> Brinley -> Ariah -> Phoebe -> Lyric -> Adelynn -> Kali -> Camille -> Sawyer -> Adelyn -> Catherine -> Payton -> Alina -> Amy -> Mya -> Molly -> Trinity -> Finley -> Lauren -> Taylor -> Elena -> Sarah -> Kinsley -> Madison -> Amelia -> NULL
+Index 26:NULL
+Index 27:NULL
+Index 28:NULL
+Index 29: Justice -> Emmalyn -> Ashlyn -> Tatum -> Gia -> Nadia -> Braelynn -> Everleigh -> Veronica -> Cali -> Adelaide -> Diana -> Rebecca -> Alana -> Katherine -> Quinn -> Violet -> Paisley -> Zoey -> Evelyn -> NULL
+Index 30:NULL
+Index 31:NULL
+Index 32:NULL
+Index 33:NULL
+Index 34:NULL
+Index 35:NULL
+Index 36: Lacey -> Esme -> Gloria -> Macy -> Imani -> Baylee -> Elisa -> Edith -> Annabella -> Leslie -> Frances -> Ariyah -> Royalty -> Ophelia -> Serena -> Katie -> Yaretzi -> Kylee -> Maeve -> Jordan -> Daniella -> Joy -> Fatima -> Lilliana -> Delaney -> Jessica -> Elliana -> Sienna -> Josie -> Mariah -> Lucia -> Daisy -> Addison -> NULL
+Index 37:NULL
+Index 38:NULL
+Index 39:NULL
+Index 40:NULL
+Index 41: Tiffany -> Macie -> Kelsey -> Dahlia -> Harlow -> Alicia -> Gracelyn -> Brynn -> Stephanie -> Leia -> Blake -> Juliet -> Brynlee -> Vanessa -> Emerson -> Alyssa -> Raelynn -> Vivian -> Mia -> NULL
+Index 42:NULL
+Index 43:NULL
+Index 44: Savanna -> Lorelai -> Angelica -> Michaela -> Charley -> Megan -> Allyson -> Jayleen -> Wren -> Eve -> Skye -> Mikayla -> Kiara -> Ada -> Tessa -> Adriana -> Juliette -> Valerie -> Arabella -> Morgan -> Alexandra -> Ivy -> Willow -> Piper -> Ariana -> Emily -> Sophia -> Olivia -> NULL
+Index 45:NULL
+Index 46:NULL
+Index 47:NULL
+Index 48:NULL
+Index 49: Kaliyah -> Kyra -> Dallas -> Jillian -> Hattie -> Mira -> Selah -> Carly -> Zariah -> Chelsea -> Evie -> Paislee -> Miriam -> Noelle -> Fiona -> Iris -> Ariel -> Athena -> Isla -> Emilia -> NULL
+Index 50:NULL
+Index 51:NULL
+Index 52:NULL
+Index 53:NULL
+Index 54:NULL
+Index 55:NULL
+Index 56: Anika -> Avah -> Skyla -> Kynlee -> Lorelei -> Saylor -> Skyler -> Sage -> Lena -> Angela -> Malia -> Harmony -> Sophie -> Autumn -> Eva -> Savannah -> Aubrey -> Scarlett -> Charlotte -> NULL
+Index 57:NULL
+Index 58:NULL
+Index 59:NULL
+Index 60:NULL
+Index 61: Liberty -> Priscilla -> Kensley -> Mabel -> Gracelynn -> Phoenix -> Raelyn -> Ruth -> Rosalie -> Rowan -> Esther -> Kimberly -> Margaret -> Mackenzie -> Everly -> Aria -> Avery -> Abigail -> NULL
+Index 62:NULL
+Index 63:NULL
+Index 64: Janiyah -> Janiyah -> Kalani -> Alayah -> Celine -> Aviana -> Raven -> Nylah -> Emely -> Helen -> Jenna -> Daphne -> Magnolia -> Keira -> Charlee -> Blakely -> Lola -> Brooklynn -> Teagan -> Valeria -> Juliana -> Isabel -> Faith -> Maya -> Claire -> NULL
+Index 65:NULL
+Index 66:NULL
+Index 67:NULL
+Index 68:NULL
+Index 69: Laurel -> Kelly -> Coraline -> Galilea -> Alanna -> Henley -> Oakley -> Kathryn -> Amber -> Angel -> Evelynn -> Allie -> Gemma -> Leila -> Parker -> Harley -> Gracie -> Andrea -> Rylee -> Caroline -> Samantha -> Lucy -> Stella -> Mila -> NULL
+Index 70:NULL
+Index 71:NULL
+Index 72:NULL
+Index 73:NULL
+Index 74:NULL
+Index 75:NULL
+Index 76: Maia -> Leighton -> Madelynn -> Kamryn -> Bianca -> Zuri -> Kaia -> Genevieve -> Jocelyn -> Ryleigh -> Penelope -> NULL
+Index 77:NULL
+Index 78:NULL
+Index 79:NULL
+Index 80:NULL
+Index 81: Karla -> Cameron -> Hallie -> Carter -> Myra -> Celeste -> Carolina -> Aylin -> Maliyah -> Kira -> Addilyn -> Talia -> Camilla -> Annie -> Kamila -> Ember -> Gabriela -> Giselle -> Ayla -> Rachel -> Eloise -> Sara -> Rose -> Mary -> Delilah -> Alexa -> Ellie -> Lillian -> Chloe -> NULL
+Index 82:NULL
+Index 83:NULL
+Index 84: Bailee -> Rory -> Madilynn -> Addyson -> Cecelia -> Kassidy -> Mckinley -> Katelyn -> Lia -> Amanda -> Maci -> Alessandra -> Evangeline -> Journee -> Ana -> Londyn -> Mckenzie -> Jade -> Alice -> Allison -> Leah -> NULL
+Index 85:NULL
+Index 86:NULL
+Index 87:NULL
+Index 88:NULL
+Index 89: Kyleigh -> Elliott -> Jazmin -> Kara -> Ashlynn -> Demi -> Malaysia -> Braelyn -> Winter -> Christina -> Heidi -> Rylie -> Juniper -> Jennifer -> Alexandria -> Summer -> Laila -> Anastasia -> Josephine -> Clara -> Riley -> Camila -> Victoria -> NULL
+Index 90:NULL
+Index 91:NULL
+Index 92:NULL
+Index 93:NULL
+Index 94:NULL
+Index 95:NULL
+Index 96: Anne -> Mallory -> Aisha -> Hanna -> Adelina -> Melany -> Lilith -> Sierra -> Kayleigh -> Alison -> Elle -> Kenzie -> Elaina -> Amina -> Thea -> Lucille -> Vivienne -> Maggie -> Daleyza -> Destiny -> Lila -> Daniela -> Callie -> Adaline -> Paige -> Sydney -> Alexis -> Ashley -> Emery -> Eliana -> Sadie -> Madelyn -> NULL
+Index 97:NULL
+Index 98:NULL
+Index 99:NULL
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to delete: Deleted name: Olive
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: 
+Data in Hash Table:
+Index 0: Elaine -> Azalea -> Haylee -> Aubrie -> Giuliana -> Dayana -> Colette -> Maisie -> Kehlani -> Matilda -> Blair -> Lainey -> Nia -> Nayeli -> Holly -> Itzel -> Rosemary -> Amari -> Anaya -> Ryan -> Esmeralda -> Madeleine -> Lana -> Miranda -> Cassidy -> Nina -> Kinley -> Amira -> Makenzie -> River -> Lilah -> Raegan -> Selena -> Sloane -> Presley -> Brooke -> Reese -> Jordyn -> Aliyah -> Eden -> Ximena -> Kylie -> Maria -> Reagan -> Valentina -> Gianna -> Naomi -> Adeline -> Bella -> Skylar -> Hazel -> Luna -> Eleanor -> Lily -> Hannah -> Nora -> Elizabeth -> Harper -> NULL
+Index 1: Irene -> Lilian -> Beatrice -> Mariam -> Janelle -> Fernanda -> Luciana -> Kyla -> Gwendolyn -> Miracle -> Haley -> Laura -> Heaven -> Makenna -> Briella -> Amiyah -> Mckenna -> Joanna -> Hayden -> Kendall -> Angelina -> Eliza -> Khloe -> Adalyn -> Brianna -> Hadley -> Madeline -> Julia -> Isabelle -> Melanie -> Lydia -> Serenity -> Nevaeh -> Gabriella -> Layla -> NULL
+Index 2:NULL
+Index 3:NULL
+Index 4: Milani -> Karina -> Alejandra -> Marlee -> Avianna -> Kennedi -> Francesca -> Regina -> Erin -> Carmen -> Adrianna -> Danielle -> Lexi -> Arielle -> Elsie -> Haven -> Ariella -> Aniyah -> Journey -> Zara -> Vera -> June -> Georgia -> Alivia -> Alayna -> Nicole -> Elise -> Kayla -> Lyla -> Leilani -> Bailey -> Annabelle -> Natalia -> Liliana -> Arianna -> Zoe -> Brooklyn -> Natalie -> Sofia -> NULL
+Index 5:NULL
+Index 6:NULL
+Index 7:NULL
+Index 8:NULL
+Index 9: Kora -> Karen -> Johanna -> Charleigh -> Renata -> Kendra -> Remington -> Aspen -> Myla -> Samara -> Freya -> Mariana -> Logan -> Gabrielle -> Catalina -> Remi -> Jayla -> Michelle -> Arya -> Brielle -> Kaylee -> Aaliyah -> Isabella -> NULL
+Index 10:NULL
+Index 11:NULL
+Index 12:NULL
+Index 13:NULL
+Index 14:NULL
+Index 15:NULL
+Index 16: Sasha -> Elianna -> Kaydence -> Cataleya -> April -> Sarai -> Sabrina -> Alexia -> Jimena -> Averie -> Millie -> Dylan -> Nyla -> Izabella -> Hope -> Dakota -> Makayla -> Charlie -> Norah -> Nova -> Aubree -> Hailey -> NULL
+Index 17:NULL
+Index 18:NULL
+Index 19:NULL
+Index 20:NULL
+Index 21: Octavia -> Jayda -> Brylee -> Emelia -> Helena -> Briana -> Annalise -> Paris -> Kate -> Emersyn -> Amaya -> Jasmine -> Adalynn -> Peyton -> Cora -> NULL
+Index 22:NULL
+Index 23:NULL
+Index 24: Jazmine -> Karsyn -> Aleena -> Danna -> Marilyn -> Meredith -> Sylvia -> Jazlyn -> Abby -> Lennon -> Jada -> Camryn -> Viviana -> Scarlet -> Margot -> Kaitlyn -> Madilyn -> Jane -> Melissa -> Marley -> Amara -> Julianna -> Alaina -> Cecilia -> Lilly -> London -> Melody -> Ruby -> Kennedy -> Genesis -> Anna -> Aurora -> Audrey -> Grace -> Ella -> NULL
+Index 25: Adley -> Madisyn -> Shiloh -> Charli -> Lauryn -> Leona -> Ivanna -> Julie -> Virginia -> Aleah -> Bethany -> Liana -> Bristol -> Maryam -> Jolene -> Willa -> Alani -> Cheyenne -> Cadence -> Shelby -> Alondra -> Maddison -> Ainsley -> Jacqueline -> Felicity -> Brinley -> Ariah -> Phoebe -> Lyric -> Adelynn -> Kali -> Camille -> Sawyer -> Adelyn -> Catherine -> Payton -> Alina -> Amy -> Mya -> Molly -> Trinity -> Finley -> Lauren -> Taylor -> Elena -> Sarah -> Kinsley -> Madison -> Amelia -> NULL
+Index 26:NULL
+Index 27:NULL
+Index 28:NULL
+Index 29: Justice -> Emmalyn -> Ashlyn -> Tatum -> Gia -> Nadia -> Braelynn -> Everleigh -> Veronica -> Cali -> Adelaide -> Diana -> Rebecca -> Alana -> Katherine -> Quinn -> Violet -> Paisley -> Zoey -> Evelyn -> NULL
+Index 30:NULL
+Index 31:NULL
+Index 32:NULL
+Index 33:NULL
+Index 34:NULL
+Index 35:NULL
+Index 36: Lacey -> Esme -> Gloria -> Macy -> Imani -> Baylee -> Elisa -> Edith -> Annabella -> Leslie -> Frances -> Ariyah -> Royalty -> Ophelia -> Serena -> Katie -> Yaretzi -> Kylee -> Maeve -> Jordan -> Daniella -> Joy -> Fatima -> Lilliana -> Delaney -> Jessica -> Elliana -> Sienna -> Josie -> Mariah -> Lucia -> Daisy -> Addison -> NULL
+Index 37:NULL
+Index 38:NULL
+Index 39:NULL
+Index 40:NULL
+Index 41: Tiffany -> Macie -> Kelsey -> Dahlia -> Harlow -> Alicia -> Gracelyn -> Brynn -> Stephanie -> Leia -> Blake -> Juliet -> Brynlee -> Vanessa -> Emerson -> Alyssa -> Raelynn -> Vivian -> Mia -> NULL
+Index 42:NULL
+Index 43:NULL
+Index 44: Savanna -> Lorelai -> Angelica -> Michaela -> Charley -> Megan -> Allyson -> Jayleen -> Wren -> Eve -> Skye -> Mikayla -> Kiara -> Ada -> Tessa -> Adriana -> Juliette -> Valerie -> Arabella -> Morgan -> Alexandra -> Ivy -> Willow -> Piper -> Ariana -> Emily -> Sophia -> Olivia -> NULL
+Index 45:NULL
+Index 46:NULL
+Index 47:NULL
+Index 48:NULL
+Index 49: Kaliyah -> Kyra -> Dallas -> Jillian -> Hattie -> Mira -> Selah -> Carly -> Zariah -> Chelsea -> Evie -> Paislee -> Miriam -> Noelle -> Fiona -> Iris -> Ariel -> Athena -> Isla -> Emilia -> NULL
+Index 50:NULL
+Index 51:NULL
+Index 52:NULL
+Index 53:NULL
+Index 54:NULL
+Index 55:NULL
+Index 56: Anika -> Avah -> Skyla -> Kynlee -> Lorelei -> Saylor -> Skyler -> Sage -> Lena -> Angela -> Malia -> Harmony -> Sophie -> Autumn -> Eva -> Savannah -> Aubrey -> Scarlett -> Charlotte -> NULL
+Index 57:NULL
+Index 58:NULL
+Index 59:NULL
+Index 60:NULL
+Index 61: Liberty -> Priscilla -> Kensley -> Mabel -> Gracelynn -> Phoenix -> Raelyn -> Ruth -> Rosalie -> Rowan -> Esther -> Kimberly -> Margaret -> Mackenzie -> Everly -> Aria -> Avery -> Abigail -> NULL
+Index 62:NULL
+Index 63:NULL
+Index 64: Janiyah -> Janiyah -> Kalani -> Alayah -> Celine -> Aviana -> Raven -> Nylah -> Emely -> Helen -> Jenna -> Daphne -> Magnolia -> Keira -> Charlee -> Blakely -> Lola -> Brooklynn -> Teagan -> Valeria -> Juliana -> Isabel -> Faith -> Maya -> Claire -> NULL
+Index 65:NULL
+Index 66:NULL
+Index 67:NULL
+Index 68:NULL
+Index 69: Laurel -> Kelly -> Coraline -> Galilea -> Alanna -> Henley -> Oakley -> Kathryn -> Amber -> Angel -> Evelynn -> Allie -> Gemma -> Leila -> Parker -> Harley -> Gracie -> Andrea -> Rylee -> Caroline -> Samantha -> Lucy -> Stella -> Mila -> NULL
+Index 70:NULL
+Index 71:NULL
+Index 72:NULL
+Index 73:NULL
+Index 74:NULL
+Index 75:NULL
+Index 76: Maia -> Leighton -> Madelynn -> Kamryn -> Bianca -> Zuri -> Kaia -> Genevieve -> Jocelyn -> Ryleigh -> Penelope -> NULL
+Index 77:NULL
+Index 78:NULL
+Index 79:NULL
+Index 80:NULL
+Index 81: Karla -> Cameron -> Hallie -> Carter -> Myra -> Celeste -> Carolina -> Aylin -> Maliyah -> Kira -> Addilyn -> Talia -> Camilla -> Annie -> Kamila -> Ember -> Gabriela -> Giselle -> Ayla -> Rachel -> Eloise -> Sara -> Rose -> Mary -> Delilah -> Alexa -> Ellie -> Lillian -> Chloe -> NULL
+Index 82:NULL
+Index 83:NULL
+Index 84: Bailee -> Rory -> Madilynn -> Addyson -> Cecelia -> Kassidy -> Mckinley -> Katelyn -> Lia -> Amanda -> Maci -> Alessandra -> Evangeline -> Journee -> Ana -> Londyn -> Mckenzie -> Jade -> Alice -> Allison -> Leah -> NULL
+Index 85:NULL
+Index 86:NULL
+Index 87:NULL
+Index 88:NULL
+Index 89: Kyleigh -> Elliott -> Jazmin -> Kara -> Ashlynn -> Demi -> Malaysia -> Braelyn -> Winter -> Christina -> Heidi -> Rylie -> Juniper -> Jennifer -> Alexandria -> Summer -> Laila -> Anastasia -> Josephine -> Clara -> Riley -> Camila -> Victoria -> NULL
+Index 90:NULL
+Index 91:NULL
+Index 92:NULL
+Index 93:NULL
+Index 94:NULL
+Index 95:NULL
+Index 96: Anne -> Mallory -> Aisha -> Hanna -> Adelina -> Melany -> Lilith -> Sierra -> Kayleigh -> Alison -> Elle -> Kenzie -> Elaina -> Amina -> Thea -> Lucille -> Vivienne -> Maggie -> Daleyza -> Destiny -> Lila -> Daniela -> Callie -> Adaline -> Paige -> Sydney -> Alexis -> Ashley -> Emery -> Eliana -> Sadie -> Madelyn -> NULL
+Index 97:NULL
+Index 98:NULL
+Index 99:NULL
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to delete: Deleted name: Sophia
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: 
+Data in Hash Table:
+Index 0: Elaine -> Azalea -> Haylee -> Aubrie -> Giuliana -> Dayana -> Colette -> Maisie -> Kehlani -> Matilda -> Blair -> Lainey -> Nia -> Nayeli -> Holly -> Itzel -> Rosemary -> Amari -> Anaya -> Ryan -> Esmeralda -> Madeleine -> Lana -> Miranda -> Cassidy -> Nina -> Kinley -> Amira -> Makenzie -> River -> Lilah -> Raegan -> Selena -> Sloane -> Presley -> Brooke -> Reese -> Jordyn -> Aliyah -> Eden -> Ximena -> Kylie -> Maria -> Reagan -> Valentina -> Gianna -> Naomi -> Adeline -> Bella -> Skylar -> Hazel -> Luna -> Eleanor -> Lily -> Hannah -> Nora -> Elizabeth -> Harper -> NULL
+Index 1: Irene -> Lilian -> Beatrice -> Mariam -> Janelle -> Fernanda -> Luciana -> Kyla -> Gwendolyn -> Miracle -> Haley -> Laura -> Heaven -> Makenna -> Briella -> Amiyah -> Mckenna -> Joanna -> Hayden -> Kendall -> Angelina -> Eliza -> Khloe -> Adalyn -> Brianna -> Hadley -> Madeline -> Julia -> Isabelle -> Melanie -> Lydia -> Serenity -> Nevaeh -> Gabriella -> Layla -> NULL
+Index 2:NULL
+Index 3:NULL
+Index 4: Milani -> Karina -> Alejandra -> Marlee -> Avianna -> Kennedi -> Francesca -> Regina -> Erin -> Carmen -> Adrianna -> Danielle -> Lexi -> Arielle -> Elsie -> Haven -> Ariella -> Aniyah -> Journey -> Zara -> Vera -> June -> Georgia -> Alivia -> Alayna -> Nicole -> Elise -> Kayla -> Lyla -> Leilani -> Bailey -> Annabelle -> Natalia -> Liliana -> Arianna -> Zoe -> Brooklyn -> Natalie -> Sofia -> NULL
+Index 5:NULL
+Index 6:NULL
+Index 7:NULL
+Index 8:NULL
+Index 9: Kora -> Karen -> Johanna -> Charleigh -> Renata -> Kendra -> Remington -> Aspen -> Myla -> Samara -> Freya -> Mariana -> Logan -> Gabrielle -> Catalina -> Remi -> Jayla -> Michelle -> Arya -> Brielle -> Kaylee -> Aaliyah -> Isabella -> NULL
+Index 10:NULL
+Index 11:NULL
+Index 12:NULL
+Index 13:NULL
+Index 14:NULL
+Index 15:NULL
+Index 16: Sasha -> Elianna -> Kaydence -> Cataleya -> April -> Sarai -> Sabrina -> Alexia -> Jimena -> Averie -> Millie -> Dylan -> Nyla -> Izabella -> Hope -> Dakota -> Makayla -> Charlie -> Norah -> Nova -> Aubree -> Hailey -> NULL
+Index 17:NULL
+Index 18:NULL
+Index 19:NULL
+Index 20:NULL
+Index 21: Octavia -> Jayda -> Brylee -> Emelia -> Helena -> Briana -> Annalise -> Paris -> Kate -> Emersyn -> Amaya -> Jasmine -> Adalynn -> Peyton -> Cora -> NULL
+Index 22:NULL
+Index 23:NULL
+Index 24: Jazmine -> Karsyn -> Aleena -> Danna -> Marilyn -> Meredith -> Sylvia -> Jazlyn -> Abby -> Lennon -> Jada -> Camryn -> Viviana -> Scarlet -> Margot -> Kaitlyn -> Madilyn -> Jane -> Melissa -> Marley -> Amara -> Julianna -> Alaina -> Cecilia -> Lilly -> London -> Melody -> Ruby -> Kennedy -> Genesis -> Anna -> Aurora -> Audrey -> Grace -> Ella -> NULL
+Index 25: Adley -> Madisyn -> Shiloh -> Charli -> Lauryn -> Leona -> Ivanna -> Julie -> Virginia -> Aleah -> Bethany -> Liana -> Bristol -> Maryam -> Jolene -> Willa -> Alani -> Cheyenne -> Cadence -> Shelby -> Alondra -> Maddison -> Ainsley -> Jacqueline -> Felicity -> Brinley -> Ariah -> Phoebe -> Lyric -> Adelynn -> Kali -> Camille -> Sawyer -> Adelyn -> Catherine -> Payton -> Alina -> Amy -> Mya -> Molly -> Trinity -> Finley -> Lauren -> Taylor -> Elena -> Sarah -> Kinsley -> Madison -> Amelia -> NULL
+Index 26:NULL
+Index 27:NULL
+Index 28:NULL
+Index 29: Justice -> Emmalyn -> Ashlyn -> Tatum -> Gia -> Nadia -> Braelynn -> Everleigh -> Veronica -> Cali -> Adelaide -> Diana -> Rebecca -> Alana -> Katherine -> Quinn -> Violet -> Paisley -> Zoey -> Evelyn -> NULL
+Index 30:NULL
+Index 31:NULL
+Index 32:NULL
+Index 33:NULL
+Index 34:NULL
+Index 35:NULL
+Index 36: Lacey -> Esme -> Gloria -> Macy -> Imani -> Baylee -> Elisa -> Edith -> Annabella -> Leslie -> Frances -> Ariyah -> Royalty -> Ophelia -> Serena -> Katie -> Yaretzi -> Kylee -> Maeve -> Jordan -> Daniella -> Joy -> Fatima -> Lilliana -> Delaney -> Jessica -> Elliana -> Sienna -> Josie -> Mariah -> Lucia -> Daisy -> Addison -> NULL
+Index 37:NULL
+Index 38:NULL
+Index 39:NULL
+Index 40:NULL
+Index 41: Tiffany -> Macie -> Kelsey -> Dahlia -> Harlow -> Alicia -> Gracelyn -> Brynn -> Stephanie -> Leia -> Blake -> Juliet -> Brynlee -> Vanessa -> Emerson -> Alyssa -> Raelynn -> Vivian -> Mia -> NULL
+Index 42:NULL
+Index 43:NULL
+Index 44: Savanna -> Lorelai -> Angelica -> Michaela -> Charley -> Megan -> Allyson -> Jayleen -> Wren -> Eve -> Skye -> Mikayla -> Kiara -> Ada -> Tessa -> Adriana -> Juliette -> Valerie -> Arabella -> Morgan -> Alexandra -> Ivy -> Willow -> Piper -> Ariana -> Emily -> Olivia -> NULL
+Index 45:NULL
+Index 46:NULL
+Index 47:NULL
+Index 48:NULL
+Index 49: Kaliyah -> Kyra -> Dallas -> Jillian -> Hattie -> Mira -> Selah -> Carly -> Zariah -> Chelsea -> Evie -> Paislee -> Miriam -> Noelle -> Fiona -> Iris -> Ariel -> Athena -> Isla -> Emilia -> NULL
+Index 50:NULL
+Index 51:NULL
+Index 52:NULL
+Index 53:NULL
+Index 54:NULL
+Index 55:NULL
+Index 56: Anika -> Avah -> Skyla -> Kynlee -> Lorelei -> Saylor -> Skyler -> Sage -> Lena -> Angela -> Malia -> Harmony -> Sophie -> Autumn -> Eva -> Savannah -> Aubrey -> Scarlett -> Charlotte -> NULL
+Index 57:NULL
+Index 58:NULL
+Index 59:NULL
+Index 60:NULL
+Index 61: Liberty -> Priscilla -> Kensley -> Mabel -> Gracelynn -> Phoenix -> Raelyn -> Ruth -> Rosalie -> Rowan -> Esther -> Kimberly -> Margaret -> Mackenzie -> Everly -> Aria -> Avery -> Abigail -> NULL
+Index 62:NULL
+Index 63:NULL
+Index 64: Janiyah -> Janiyah -> Kalani -> Alayah -> Celine -> Aviana -> Raven -> Nylah -> Emely -> Helen -> Jenna -> Daphne -> Magnolia -> Keira -> Charlee -> Blakely -> Lola -> Brooklynn -> Teagan -> Valeria -> Juliana -> Isabel -> Faith -> Maya -> Claire -> NULL
+Index 65:NULL
+Index 66:NULL
+Index 67:NULL
+Index 68:NULL
+Index 69: Laurel -> Kelly -> Coraline -> Galilea -> Alanna -> Henley -> Oakley -> Kathryn -> Amber -> Angel -> Evelynn -> Allie -> Gemma -> Leila -> Parker -> Harley -> Gracie -> Andrea -> Rylee -> Caroline -> Samantha -> Lucy -> Stella -> Mila -> NULL
+Index 70:NULL
+Index 71:NULL
+Index 72:NULL
+Index 73:NULL
+Index 74:NULL
+Index 75:NULL
+Index 76: Maia -> Leighton -> Madelynn -> Kamryn -> Bianca -> Zuri -> Kaia -> Genevieve -> Jocelyn -> Ryleigh -> Penelope -> NULL
+Index 77:NULL
+Index 78:NULL
+Index 79:NULL
+Index 80:NULL
+Index 81: Karla -> Cameron -> Hallie -> Carter -> Myra -> Celeste -> Carolina -> Aylin -> Maliyah -> Kira -> Addilyn -> Talia -> Camilla -> Annie -> Kamila -> Ember -> Gabriela -> Giselle -> Ayla -> Rachel -> Eloise -> Sara -> Rose -> Mary -> Delilah -> Alexa -> Ellie -> Lillian -> Chloe -> NULL
+Index 82:NULL
+Index 83:NULL
+Index 84: Bailee -> Rory -> Madilynn -> Addyson -> Cecelia -> Kassidy -> Mckinley -> Katelyn -> Lia -> Amanda -> Maci -> Alessandra -> Evangeline -> Journee -> Ana -> Londyn -> Mckenzie -> Jade -> Alice -> Allison -> Leah -> NULL
+Index 85:NULL
+Index 86:NULL
+Index 87:NULL
+Index 88:NULL
+Index 89: Kyleigh -> Elliott -> Jazmin -> Kara -> Ashlynn -> Demi -> Malaysia -> Braelyn -> Winter -> Christina -> Heidi -> Rylie -> Juniper -> Jennifer -> Alexandria -> Summer -> Laila -> Anastasia -> Josephine -> Clara -> Riley -> Camila -> Victoria -> NULL
+Index 90:NULL
+Index 91:NULL
+Index 92:NULL
+Index 93:NULL
+Index 94:NULL
+Index 95:NULL
+Index 96: Anne -> Mallory -> Aisha -> Hanna -> Adelina -> Melany -> Lilith -> Sierra -> Kayleigh -> Alison -> Elle -> Kenzie -> Elaina -> Amina -> Thea -> Lucille -> Vivienne -> Maggie -> Daleyza -> Destiny -> Lila -> Daniela -> Callie -> Adaline -> Paige -> Sydney -> Alexis -> Ashley -> Emery -> Eliana -> Sadie -> Madelyn -> NULL
+Index 97:NULL
+Index 98:NULL
+Index 99:NULL
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: 

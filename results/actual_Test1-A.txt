@@ -1,0 +1,64 @@
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Input number of hash table elements: 
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: 
+Data in Hash Table:
+Index 0:NULL
+Index 1:NULL
+Index 2:NULL
+Index 3:NULL
+Index 4:NULL
+Index 5:NULL
+Index 6:NULL
+Index 7:NULL
+Index 8:NULL
+Index 9:NULL
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: 

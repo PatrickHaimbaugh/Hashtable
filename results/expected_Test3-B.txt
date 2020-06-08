@@ -1,0 +1,208 @@
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Input number of hash table elements: 
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to insert: Inserted name: CS240
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to insert: Inserted name: Purdue
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to insert: Inserted name: programming
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: 
+Data in Hash Table:
+Index 0: CS240 -> NULL
+Index 1:NULL
+Index 2:NULL
+Index 3:NULL
+Index 4:NULL
+Index 5:NULL
+Index 6:NULL
+Index 7:NULL
+Index 8:NULL
+Index 9:NULL
+Index 10:NULL
+Index 11:NULL
+Index 12:NULL
+Index 13:NULL
+Index 14:NULL
+Index 15:NULL
+Index 16:NULL
+Index 17:NULL
+Index 18:NULL
+Index 19:NULL
+Index 20:NULL
+Index 21:NULL
+Index 22:NULL
+Index 23:NULL
+Index 24:NULL
+Index 25:NULL
+Index 26:NULL
+Index 27:NULL
+Index 28:NULL
+Index 29:NULL
+Index 30:NULL
+Index 31:NULL
+Index 32:NULL
+Index 33:NULL
+Index 34:NULL
+Index 35:NULL
+Index 36:NULL
+Index 37:NULL
+Index 38:NULL
+Index 39:NULL
+Index 40:NULL
+Index 41: Purdue -> NULL
+Index 42:NULL
+Index 43:NULL
+Index 44:NULL
+Index 45:NULL
+Index 46:NULL
+Index 47:NULL
+Index 48:NULL
+Index 49:NULL
+Index 50:NULL
+Index 51:NULL
+Index 52:NULL
+Index 53:NULL
+Index 54:NULL
+Index 55:NULL
+Index 56:NULL
+Index 57:NULL
+Index 58:NULL
+Index 59:NULL
+Index 60:NULL
+Index 61:NULL
+Index 62:NULL
+Index 63:NULL
+Index 64:NULL
+Index 65:NULL
+Index 66:NULL
+Index 67:NULL
+Index 68:NULL
+Index 69: programming -> NULL
+Index 70:NULL
+Index 71:NULL
+Index 72:NULL
+Index 73:NULL
+Index 74:NULL
+Index 75:NULL
+Index 76:NULL
+Index 77:NULL
+Index 78:NULL
+Index 79:NULL
+Index 80:NULL
+Index 81:NULL
+Index 82:NULL
+Index 83:NULL
+Index 84:NULL
+Index 85:NULL
+Index 86:NULL
+Index 87:NULL
+Index 88:NULL
+Index 89:NULL
+Index 90:NULL
+Index 91:NULL
+Index 92:NULL
+Index 93:NULL
+Index 94:NULL
+Index 95:NULL
+Index 96:NULL
+Index 97:NULL
+Index 98:NULL
+Index 99:NULL
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: 

@@ -1,0 +1,86 @@
+#!/bin/bash
+
+(make clean > /dev/null; make) || exit 1
+
+rm -r results > /dev/null 2>&1
+mkdir results > /dev/null 2>&1
+
+# Test driver
+function runtest {
+  prog=$1
+  args=$2
+  descrip=$3
+  grade=$4
+  
+  echo "------------------------------------------------------------------------------"
+  echo ">>>Running $5"
+  
+  ./$prog.org < $args > results/expected_$descrip.txt 
+  timeout 1s ./$prog < $args > results/actual_$descrip.txt
+  
+  if [ "$descrip" = "Test9-A" ] || [ "$descrip" = "Test9-B" ]
+  then
+      valgrind ./$prog < $args > /dev/null 2>mem.txt
+      memReport=$?
+      allocs=$( grep "total heap usage:" mem.txt | cut -f2 -d":" | cut -f2 -d" " )      
+      free=$( grep "total heap usage:" mem.txt | cut -f2 -d":" | cut -f4 -d" " )
+      report=$( grep "total heap usage:" mem.txt | cut -f4- -d" " )
+  fi
+      
+  git diff --word-diff=plain --word-diff-regex=[^[:space:]] -U0                               results/expected_$descrip.txt results/actual_$descrip.txt > /dev/null
+  if [ $? -lt 1 ]
+  then                                      
+      printf ">>>Test Passed\n";
+    if [[ "$descrip" == "Test9-A" ]]
+    then
+        if [ $allocs != $free ]
+        then
+            echo ">>>Error: $report"
+            echo ">>>Free all allocated memory or you will get a 0."
+        fi
+    fi
+      
+    if [[ "$descrip" == "Test9-B" ]]
+        then
+            if [ $allocs != $free ]
+            then
+                echo ">>>Error: $report"
+                echo ">>>Free all allocated memory or you will get a 0"
+            fi
+    fi
+    echo "------------------------------------------------------------------------------"
+    echo
+  else
+      echo ">>Test Failed";
+      echo ">>Your output does not match the expected."
+      echo ">>Run 'diff -d expected_$descrip.txt actual_$descrip.txt' to examine the difference."
+      echo "------------------------------------------------------------------------------"
+      echo
+   fi
+      
+} 
+      
+# List of tests running
+runtest hashtable test/test1-A Test1-A 1 "Initialize hash table"
+runtest hashtable test/test1-B Test1-B 1 "Initialize hash table"
+runtest hashtable test/test2-A Test2-A 1 "Compute hash value"
+runtest hashtable test/test2-B Test2-B 1 "Compute hash value"
+runtest hashtable test/test3-A Test3-A 1 "Insertion into hash table"
+runtest hashtable test/test3-B Test3-B 1 "Insertion into hash table"  
+runtest hashtable test/test4-A Test4-A 1 "Deletion from hash table"
+runtest hashtable test/test4-B Test4-B 1 "Deletion from hash table"  
+runtest hashtable test/test5-A Test5-A 1 "Search the hash table"
+runtest hashtable test/test5-B Test5-B 1 "Search the hash table"  
+runtest hashtable test/test6-A Test6-A 1 "Count empty cells in the hash table"
+runtest hashtable test/test6-B Test6-B 1 "Count empty cells in the hash table"
+runtest hashtable test/test7-A Test7-A 1 "Average length of linked lists in hash table"
+runtest hashtable test/test7-B Test7-B 1 "Average length of linked lists in hash table"  
+runtest hashtable test/test8-A Test8-A 1 "Length of longest linked list in hash table"
+runtest hashtable test/test8-B Test8-B 1 "Length of longest linked list in hash table"  
+runtest hashtable test/test9-A Test9-A 4 "Deletion of hash table (check for memory leaks)"
+runtest hashtable test/test9-B Test9-B 4 "Deletion of hash table (check for memory leaks)"  
+runtest hashtable test/test10-A Test10-A 3 "Extra Credit"
+runtest hashtable test/test10-B Test10-B 3 "Extra Credit"
+
+rm mem.txt
+make clean

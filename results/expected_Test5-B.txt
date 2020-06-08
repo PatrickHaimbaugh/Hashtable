@@ -1,0 +1,178 @@
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Input number of hash table elements: 
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name of the input file: 
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to search: Found name: Ava
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to search: Found name: Emma
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to search: Found name: Olive
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to search: Found name: Sophia
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to search: Name not found: keyboard
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to search: Name not found: spider
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: Enter the name to search: Name not found: python
+
+Welcome to Hashtable
+--------------------
+A-Initialize hash table
+B-Compute hash value
+C-Insert name
+D-Load names from file
+E-Delete name
+F-Search name
+G-Number of empty elements
+H-Average list length
+I-Maximum list length
+J-Resize hash table (Extra Credit)
+K-Display hash table
+L-Delete hash table
+M-Exit
+--------------------
+Select an option: 
